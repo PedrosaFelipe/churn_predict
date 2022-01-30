@@ -1,0 +1,2 @@
+# churn_predict
+In this project, your mission will be to indicate to the company which customers will not renew their bank account in the next year, that is, which customers will enter a "churn" state. Its mission is to train an algorithm that identifies such customers and generates a score, indicating the probability of the customer not renewing the contract with the company. In addition, you need to think of an action plan to prevent these customers from not renewing.
