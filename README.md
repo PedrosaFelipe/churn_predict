@@ -1,5 +1,8 @@
 # TopBank Company - A Churn Prediction Project
 
+   ![1_WqId29D5dN_8DhiYQcHa2w](https://user-images.githubusercontent.com/55566708/186330229-37e82b76-ffbe-48a3-8683-8b06ef2b3f44.png)
+
+
 **In this project, your mission will be to indicate to the company which customers will not renew their bank account in the next year, that is, which customers will enter a "churn" state. Its mission is to train an algorithm that identifies such customers and generates a score, indicating the probability of the customer not renewing the contract with the company. In addition, you need to think of an action plan to prevent these customers from not renewing.**
 
 #### This project was made by Felipe Pedrosa.
